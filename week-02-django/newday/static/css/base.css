@@ -1,0 +1,10 @@
+.text_colour {
+  color: White;
+  font-style:oblique;
+
+  margin-left: 20px;
+  height: 200px;
+  font-size: 25px;
+  padding: 20px;
+  background-color: MistyRose;
+}
